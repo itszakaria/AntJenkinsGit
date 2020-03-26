@@ -1,0 +1,21 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F41E-273A
+
+ Directory of C:\Users\itsza\workspace\antJenkinsGitwrwrwerqwer
+
+03/26/2020  01:37 PM    <DIR>          .
+03/26/2020  01:37 PM    <DIR>          ..
+03/26/2020  12:59 PM             3,728 .classpath
+03/26/2020  12:59 PM                 6 .gitignore
+03/26/2020  12:59 PM               372 .project
+03/26/2020  12:59 PM    <DIR>          .settings
+03/26/2020  01:03 PM    <DIR>          antJenkinsGit
+03/26/2020  12:59 PM    <DIR>          build
+03/26/2020  12:59 PM             2,865 build.xml
+03/26/2020  01:37 PM                 0 fileInNewBranch.txt
+03/26/2020  12:59 PM                15 README.md
+03/26/2020  12:59 PM    <DIR>          src
+03/26/2020  12:59 PM    <DIR>          test-output
+03/26/2020  12:59 PM               227 testng.xml
+               7 File(s)          7,213 bytes
+               7 Dir(s)  19,170,242,560 bytes free
